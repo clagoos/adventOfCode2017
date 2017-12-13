@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AdventOfCode2017
+﻿namespace AdventOfCode2017
 {
     /// <summary>
     /// For example, given the following spreadsheet:
