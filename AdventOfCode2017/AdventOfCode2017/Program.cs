@@ -10,6 +10,7 @@ namespace AdventOfCode2017
             ExecuteDay(new Day2());
             ExecuteDay(new Day3());
             ExecuteDay(new Day4());
+            ExecuteDay(new Day5());
         }
 
         public static void ExecuteDay(DayBase day)
