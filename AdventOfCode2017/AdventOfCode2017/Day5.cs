@@ -43,7 +43,7 @@
             return $"Step count needed to 'escape' the maze of instructions = {stepCount}";
         }
 
-        private int[] instructions =
+        private readonly int[] instructions =
         {
             1,
             0,

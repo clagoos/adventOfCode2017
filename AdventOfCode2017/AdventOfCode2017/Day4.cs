@@ -27,7 +27,7 @@ namespace AdventOfCode2017
             return $"Valid passphrases with no duplicate words count = {validPassCount}";
         }
 
-        private List<string> passphrases = new List<string>
+        private readonly List<string> passphrases = new List<string>
         {
             "nyot babgr babgr kqtu kqtu kzshonp ylyk psqk",
             "iix ewj rojvbkk phrij iix zuajnk tadv givslju ewj bda",
